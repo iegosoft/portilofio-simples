@@ -1,7 +1,8 @@
-## 🧩 Auditoria de Pull Request – Gerência de Configuração
+## Auditoria
+Este PR será usado para fins acadêmicos da disciplina de - Gerência de Configuração
 
 **Auditor:** Iêgo Sérgio Costa de Souza  
-**Data:** 07/10/2025
+**Data:** 07/10/2025.
 
 ### 🔍 Checklist de Auditoria
 
